@@ -1,0 +1,2 @@
+# imageGallerySideSliderFurniture
+landing page
